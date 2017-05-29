@@ -1,0 +1,6 @@
+D:\Emner\2. trinn\PG4500 - Game AI\MyCSharpRobot\MyCSharpRobot\MyCSharpRobot\bin\Debug\Clement.MyRobot_1.0.dll
+D:\Emner\2. trinn\PG4500 - Game AI\MyCSharpRobot\MyCSharpRobot\MyCSharpRobot\bin\Debug\Clement.MyRobot_1.0.pdb
+D:\Emner\2. trinn\PG4500 - Game AI\MyCSharpRobot\MyCSharpRobot\MyCSharpRobot\bin\Debug\robocode.dll
+D:\Emner\2. trinn\PG4500 - Game AI\MyCSharpRobot\MyCSharpRobot\MyCSharpRobot\bin\Debug\robocode.xml
+D:\Emner\2. trinn\PG4500 - Game AI\MyCSharpRobot\MyCSharpRobot\MyCSharpRobot\obj\Debug\Clement.MyRobot_1.0.dll
+D:\Emner\2. trinn\PG4500 - Game AI\MyCSharpRobot\MyCSharpRobot\MyCSharpRobot\obj\Debug\Clement.MyRobot_1.0.pdb
